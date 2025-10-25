@@ -1,3 +1,10 @@
+---
+title: "Bridging Spirituality"
+description: "At Ezra, we’re focused on creating a platform centered around the individual, their faith journey, their community, and their connection to God."
+image: null
+date: "24 OCT 2025"
+---
+
 ## _At Ezra, we’re focused on creating a platform centered around the individual, their faith journey, their community, and their connection to God._
 
 Every piece of content, from devotionals to church updates, is designed to meet users where they are, guiding them toward meaningful engagement and growth in their spiritual life.
