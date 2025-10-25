@@ -18,11 +18,11 @@ Ezra’s mission is simple yet profound: **bring users under one platform**. By 
 
 ## Our Designs!
 
-![](start_page.png)
+![](https://raw.githubusercontent.com/The-Ezra-Company/newsletter/main/bridging_spirituality/start_page.png)
 *Ezra's startup page*
 
-![](home_page.png)
+![](https://raw.githubusercontent.com/The-Ezra-Company/newsletter/main/bridging_spirituality/home_page.png)
 *A home page with personalized content for your faith*
 
-![](community.png)
+![](https://raw.githubusercontent.com/The-Ezra-Company/newsletter/main/bridging_spirituality/community.png)
 *View a community's page on Ezra!*
